@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-[![Anurag's github stats](https://imgconvert.csdnimg.cn/aHR0cHM6Ly9naXRodWItcmVhZG1lLXN0YXRzLnZlcmNlbC5hcHAvYXBp?username=18023785187)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=18023785187)](https://github.com/anuraghazra/github-readme-stats)
+
 
 **18023785187/18023785187** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
