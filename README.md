@@ -8,13 +8,13 @@
 <!-- 仓库列表 -->
 <p>
   <a href="https://github.com/18023785187/music" title='仿网易云音乐pc版'>
-    <img align="center" src="https://img.shields.io/badge/TS-仿网易云音乐pc版-#E60026" alt="仿网易云音乐pc版" />
+    <img align="center" src="https://img.shields.io/badge/TS-仿网易云音乐pc版-E60026" alt="仿网易云音乐pc版" />
   </a>
   <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>
-    <img align="center" src="https://img.shields.io/badge/TS-h-tools-js-#FCDA92" alt="h-tools-js" />
+    <img align="center" src="https://img.shields.io/badge/TS-h-tools-js-FCDA92" alt="h-tools-js" />
   </a>
   <a href="https://github.com/18023785187/stringify" title='stringify'>
-    <img align="center" src="https://img.shields.io/badge/JS-stringify-#1E90FF" alt="stringify" />
+    <img align="center" src="https://img.shields.io/badge/JS-stringify-1E90FF" alt="stringify" />
   </a>
 </p>
 <p>
