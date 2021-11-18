@@ -5,7 +5,7 @@
 <p>
   <a href="https://github.com/18023785187/music">仿网易云音乐pc版</a>
   |
-  <a href="https://github.com/18023785187/h-tools-js">h-tools-js</a>
+  <a href="https://github.com/18023785187/h-tools">h-tools-js</a>
   |
   <a href="https://github.com/18023785187/stringify">stringify</a>
 </p>
