@@ -26,7 +26,7 @@
 </p>
 <!-- 仓库列表end -->
 <!-- 积分面板start -->
-<a href="https://github.com/anuraghazra/github-readme-stats" title='Hi'>
+<a href="https://github.com/18023785187" title='Hi'>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=18023785187&count_private=true&show_icons=true&theme=tokyonight&custom_title=My%20GitHub%20Stats" alt="Hi" />
 </a>
 <!-- 积分面板end -->
