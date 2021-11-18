@@ -20,9 +20,9 @@
   |
   <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>h-tools-js</a>
   |
-  <a href="https://github.com/18023785187/stringify" title='stringify'>stringify</a>
-  |
   <a href="https://github.com/18023785187/flapp_bird" title='flapp_bird'>flapp_bird</a>
+  |
+  <a href="https://github.com/18023785187/stringify" title='stringify'>stringify</a>
 </p>
 <!-- 仓库列表end -->
 <!-- 积分面板start -->
