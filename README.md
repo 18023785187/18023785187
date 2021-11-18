@@ -8,6 +8,9 @@
   <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>
     <img align="center" src="https://img.shields.io/badge/TS-h_tools_js-FCDA92" alt="h-tools-js" />
   </a>
+  <a href="https://github.com/18023785187/flapp_bird" title='flapp_bird'>
+    <img align="center" src="https://img.shields.io/badge/Canvas-flapp_bird-8BDCB1" alt="flapp_bird" />
+  </a>
   <a href="https://github.com/18023785187/stringify" title='stringify'>
     <img align="center" src="https://img.shields.io/badge/JS-stringify-1E90FF" alt="stringify" />
   </a>
@@ -18,6 +21,8 @@
   <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>h-tools-js</a>
   |
   <a href="https://github.com/18023785187/stringify" title='stringify'>stringify</a>
+  |
+  <a href="https://github.com/18023785187/flapp_bird" title='flapp_bird'>flapp_bird</a>
 </p>
 <!-- 仓库列表end -->
 <!-- 积分面板start -->
