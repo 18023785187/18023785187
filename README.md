@@ -5,10 +5,10 @@
   <a href="https://github.com/18023785187/music" title='仿网易云音乐pc版'>
     <img align="center" src="https://img.shields.io/badge/TS-仿网易云音乐pc版-E60026" alt="仿网易云音乐pc版" />
   </a>
-  <a href="https://18023785187.github.io/flappy_bird/" title='h-tools-js'>
+  <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>
     <img align="center" src="https://img.shields.io/badge/TS-h_tools_js-FCDA92" alt="h-tools-js" />
   </a>
-  <a href="https://github.com/18023785187/flappy_bird" title='flappy_bird'>
+  <a href="https://18023785187.github.io/flappy_bird/" title='flappy_bird'>
     <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="flappy_bird" />
   </a>
   <a href="https://github.com/18023785187/stringify" title='stringify'>
