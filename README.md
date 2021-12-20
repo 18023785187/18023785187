@@ -11,8 +11,8 @@
   <a href="https://18023785187.github.io/flappy_bird/" title='flappy_bird'>
     <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="flappy_bird" />
   </a>
-  <a href="https://github.com/18023785187/stringify" title='stringify'>
-    <img align="center" src="https://img.shields.io/badge/JS-stringify-1E90FF" alt="stringify" />
+  <a href="https://github.com/18023785187/algorithm" title='algorithm'>
+    <img align="center" src="https://img.shields.io/badge/算法-算法题解分享-1E90FF" alt="algorithm" />
   </a>
 </p>
 <p>
@@ -22,7 +22,7 @@
   |
   <a href="https://github.com/18023785187/flappy_bird" title='flappy_bird'>flappy_bird</a>
   |
-  <a href="https://github.com/18023785187/stringify" title='stringify'>stringify</a>
+  <a href="https://github.com/18023785187/algorithm" title='algorithm'>算法题解分享</a>
 </p>
 <!-- 仓库列表end -->
 <!-- 积分面板start -->
