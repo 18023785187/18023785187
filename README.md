@@ -14,6 +14,9 @@
   <a href="https://github.com/18023785187/algorithm" title='algorithm'>
     <img align="center" src="https://img.shields.io/badge/算法-算法题解分享-1E90FF" alt="algorithm" />
   </a>
+  <a href="https://github.com/18023785187/hym-react-cli" title='hym-react-cli'>
+    <img align="center" src="https://img.shields.io/badge/cli-hym_react_cli-1E90FF" alt="hym-react-cli" />
+  </a>
 </p>
 <p>
   <a href="https://github.com/18023785187/music" title='仿网易云音乐pc版'>仿网易云音乐pc版</a>
@@ -23,6 +26,8 @@
   <a href="https://github.com/18023785187/flappy_bird" title='flappy_bird'>flappy_bird</a>
   |
   <a href="https://github.com/18023785187/algorithm" title='algorithm'>算法题解分享</a>
+  |
+  <a href="https://github.com/18023785187/hym-react-cli" title='hym-react-cli'>hym-react-cli</a>
 </p>
 <!-- 仓库列表end -->
 <!-- 积分面板start -->
