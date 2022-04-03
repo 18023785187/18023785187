@@ -7,7 +7,7 @@
   <a href="https://music-eight-tau.vercel.app" title='仿网易云音乐pc版'>
     <img align="center" src="https://img.shields.io/badge/TS-仿网易云音乐pc版-E60026" alt="仿网易云音乐pc版" />
   </a>
-  <a href="https://github.com/18023785187/ws" title='ws'>
+  <a href="https://ws-jade.vercel.app" title='ws'>
     <img align="center" src="https://img.shields.io/badge/WS-HYM聊天室-FCDA92" alt="ws" />
   </a>
   <a href="https://github.com/18023785187/algorithm" title='algorithm'>
@@ -22,7 +22,7 @@
   <a href="https://18023785187.github.io/flappy_bird/" title='flappy_bird'>
     <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="flappy_bird" />
   </a>
-  <a href="https://18023785187.github.io/18023785187.github.io/cesium_study/" title='Cesium案例集'>
+  <a href="https://18023785187.github.io/cesium_study/" title='Cesium案例集'>
     <img align="center" src="https://img.shields.io/badge/Cesium-Cesium案例集-fce5cd" alt="Cesium案例集" />
   </a>
 </p>
