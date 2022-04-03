@@ -22,7 +22,7 @@
   <a href="https://18023785187.github.io/flappy_bird/" title='flappy_bird'>
     <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="flappy_bird" />
   </a>
-  <a href="https://18023785187.github.io/cesium_study/" title='Cesium案例集'>
+  <a href="https://cesium-study.vercel.app/" title='Cesium案例集'>
     <img align="center" src="https://img.shields.io/badge/Cesium-Cesium案例集-fce5cd" alt="Cesium案例集" />
   </a>
 </p>
