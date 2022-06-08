@@ -1,7 +1,7 @@
 <!-- 个人介绍 -->
 <h1>Hi there, I'm hym20000418👋</h1>
 
-<image width='200' src='./image/logo.gif' />
+<!-- <image width='200' src='./image/logo.gif' /> -->
 
 <!-- 仓库列表start -->
 <p>
