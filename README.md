@@ -14,8 +14,8 @@
   <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>
     <img align="center" src="https://img.shields.io/badge/TS-h_tools_js-0EE5E7" alt="h-tools-js" />
   </a>
-  <a href="https://18023785187.github.io/flappy_bird/" title='flappy_bird'>
-    <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="flappy_bird" />
+  <a href="https://18023785187.github.io/flappy_bird/" title='飞翔的小鸟'>
+    <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="飞翔的小鸟" />
   </a>
   <a href="https://snake-path.vercel.app/" title='贪吃蛇'>
     <img align="center" src="https://img.shields.io/badge/TS-贪吃蛇-00FF00" alt="贪吃蛇" />
@@ -34,7 +34,7 @@
 |
 <a href="https://github.com/18023785187/ws" title='ws'>HYM聊天室</a>
 |
-<a href="https://github.com/18023785187/flappy_bird" title='flappy_bird'>flappy_bird</a>
+<a href="https://github.com/18023785187/flappy_bird" title='飞翔的小鸟'>飞翔的小鸟</a>
 |
 <a href="https://github.com/18023785187/snake-path" title='贪吃蛇'>贪吃蛇</a>
 <h5>算法题解</h5>
