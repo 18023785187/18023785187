@@ -1,4 +1,4 @@
-<!-- 个人介绍 -->
+<!-- 个人介绍 --> 
 <h1>Hi there, I'm hym20000418👋</h1>
 
 <!-- <image width='200' src='./image/logo.gif' /> -->
@@ -17,6 +17,9 @@
   <a href="https://18023785187.github.io/flappy_bird/" title='flappy_bird'>
     <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="flappy_bird" />
   </a>
+  <a href="https://snake-path.vercel.app/" title='贪吃蛇'>
+    <img align="center" src="https://img.shields.io/badge/TS-贪吃蛇-00FF00" alt="贪吃蛇" />
+  </a>
   <a href="https://cesium-study.vercel.app/" title='Cesium案例集'>
     <img align="center" src="https://img.shields.io/badge/Cesium-Cesium案例集-fce5cd" alt="Cesium案例集" />
   </a>
@@ -32,6 +35,8 @@
 <a href="https://github.com/18023785187/ws" title='ws'>HYM聊天室</a>
 |
 <a href="https://github.com/18023785187/flappy_bird" title='flappy_bird'>flappy_bird</a>
+|
+<a href="https://github.com/18023785187/snake-path" title='贪吃蛇'>贪吃蛇</a>
 <h5>算法题解</h5>
 <a href="https://github.com/18023785187/algorithm" title='algorithm'>算法题解分享</a>
 <h5>NPM包</h5>
