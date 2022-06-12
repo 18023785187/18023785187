@@ -15,7 +15,7 @@
     <img align="center" src="https://img.shields.io/badge/TS-h_tools_js-0EE5E7" alt="h-tools-js" />
   </a>
   <a href="https://18023785187.github.io/flappy_bird/" title='飞翔的小鸟'>
-    <img align="center" src="https://img.shields.io/badge/Canvas-flappy_bird-8BDCB1" alt="飞翔的小鸟" />
+    <img align="center" src="https://img.shields.io/badge/Canvas-飞翔的小鸟-8BDCB1" alt="飞翔的小鸟" />
   </a>
   <a href="https://snake-path.vercel.app/" title='贪吃蛇'>
     <img align="center" src="https://img.shields.io/badge/TS-贪吃蛇-00FF00" alt="贪吃蛇" />
