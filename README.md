@@ -20,6 +20,9 @@
   <a href="https://snake-path.vercel.app/" title='贪吃蛇'>
     <img align="center" src="https://img.shields.io/badge/TS-贪吃蛇-00FF00" alt="贪吃蛇" />
   </a>
+  <a href="https://piano-teal.vercel.app/" title='钢琴模拟器'>
+    <img align="center" src="https://img.shields.io/badge/HTML-钢琴模拟器-000000" alt="钢琴模拟器" />
+  </a>
   <a href="https://cesium-study.vercel.app/" title='Cesium案例集'>
     <img align="center" src="https://img.shields.io/badge/Cesium-Cesium案例集-fce5cd" alt="Cesium案例集" />
   </a>
@@ -37,6 +40,8 @@
 <a href="https://github.com/18023785187/flappy_bird" title='飞翔的小鸟'>飞翔的小鸟</a>
 |
 <a href="https://github.com/18023785187/snake-path" title='贪吃蛇'>贪吃蛇</a>
+|
+<a href="https://github.com/18023785187/piano" title='钢琴模拟器'>钢琴模拟器</a>
 <h5>算法题解</h5>
 <a href="https://github.com/18023785187/algorithm" title='algorithm'>算法题解分享</a>
 <h5>NPM包</h5>
