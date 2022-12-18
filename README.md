@@ -28,10 +28,16 @@
   </a>
 </p>
 <p>
-<h5>源码学习</h5>
+<h5>学习</h5>
 <a href="https://github.com/18023785187/my_snabbdom" title='my_snabbdom'>my_snabbdom</a>
 |
 <a href="https://github.com/18023785187/my_mustache" title='my_mustache'>my_mustache</a>
+|
+<a href="https://github.com/18023785187/LL1" title='LL(1)'>LL(1)</a>
+|
+<a href="https://github.com/18023785187/cesium_study" title='Cesium案例集'>Cesium案例集</a>
+|
+<a href="https://github.com/18023785187/algorithm" title='algorithm'>算法题解分享</a>
 <h5>网页</h5>
 <a href="https://github.com/18023785187/music" title='仿网易云音乐pc版'>仿网易云音乐pc版</a>
 |
@@ -42,14 +48,10 @@
 <a href="https://github.com/18023785187/flappy_bird" title='飞翔的小鸟'>飞翔的小鸟</a>
 |
 <a href="https://github.com/18023785187/snake-path" title='贪吃蛇'>贪吃蛇</a>
-<h5>算法题解</h5>
-<a href="https://github.com/18023785187/algorithm" title='algorithm'>算法题解分享</a>
 <h5>NPM包</h5>
 <a href="https://github.com/18023785187/hym-react-cli" title='hym-react-cli'>hym-react-cli</a>
 |
 <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>h-tools-js</a>
-<h5>学习资料</h5>
-<a href="https://github.com/18023785187/cesium_study" title='Cesium案例集'>Cesium案例集</a>
 </p>
 <!-- 仓库列表end -->
 <!-- 积分面板start -->
