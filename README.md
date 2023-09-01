@@ -35,6 +35,8 @@
   |
   <a href="https://github.com/18023785187/cesium_study" title='Cesium案例集'>Cesium案例集</a>
   |
+  <a href="https://github.com/18023785187/happy-dev-server" title='happy-dev-server'>happy-dev-server</a>
+  |
   <a href="https://github.com/18023785187/hym-react-cli" title='hym-react-cli'>hym-react-cli</a>
   |
   <a href="https://github.com/18023785187/h-tools" title='h-tools-js'>h-tools-js</a>
