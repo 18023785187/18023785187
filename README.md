@@ -2,6 +2,9 @@
 <h1>Hi there, I'm hym20000418👋</h1>
 <!-- <image width='200' src='./image/logo.gif' /> -->
 
+最近在做：[happy-dev-server](https://github.com/18023785187/happy-dev-server)
+零配置就能加载 js、ts、css、less、scss、image、vue、jsx、tsx、json 等文件的静态服务器，能很方便地写demo。
+
 <p>
 <h5>源码解读</h5>
 <div>
