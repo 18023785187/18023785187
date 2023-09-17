@@ -37,7 +37,7 @@
   |
   <a href="https://github.com/18023785187/snake-path" title='贪吃蛇'>贪吃蛇</a>
   |
-  <a href="https://github.com/18023785187/cesium_study" title='Cesium案例集'>Cesium案例集</a>
+  <a href="https://github.com/18023785187/cesium_study" title='Cesium示例'>Cesium示例</a>
   |
   <a href="https://github.com/18023785187/happy-dev-server" title='happy-dev-server'>happy-dev-server</a>
   |
