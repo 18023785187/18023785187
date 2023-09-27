@@ -48,7 +48,7 @@
   |
   <a href="https://github.com/18023785187/happy-dev-server" title='happy-dev-server'>功能强大的服务器</a>
   |
-  <a href="https://github.com/18023785187/auto-job" title='happy-dev-server'>boss直聘自动打招呼油猴脚本</a>
+  <a href="https://github.com/18023785187/auto-job" title='auto-job'>boss直聘自动打招呼油猴脚本</a>
   |
   <a href="https://github.com/18023785187/hym-react-cli" title='hym-react-cli'>react+cesium脚手架</a>
   |
