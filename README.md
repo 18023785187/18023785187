@@ -2,7 +2,13 @@
 <h1>Hi there, I'm hymmmmmm👋</h1>
 <!-- <image width='200' src='./image/logo.gif' /> -->
 
-最近在做：[happy-dev-server](https://github.com/18023785187/happy-dev-server)
+最近在做：
+
+1. [auto-job](https://github.com/18023785187/auto-job)
+
+boss直聘自动打招呼油猴脚本
+
+2. [happy-dev-server](https://github.com/18023785187/happy-dev-server)
 
 零配置就能加载 js、ts、css、less、scss、image、vue、jsx、tsx、json 等文件的静态服务器，能很方便地写demo。
 
